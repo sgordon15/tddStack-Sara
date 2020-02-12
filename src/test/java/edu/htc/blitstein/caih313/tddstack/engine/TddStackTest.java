@@ -1,9 +1,7 @@
-package edu.htc.blitstein.caih313.tddstack.impl;
+package edu.htc.blitstein.caih313.tddstack.engine;
 
 import org.junit.After;
 import org.junit.Before;
-
-import static org.junit.Assert.*;
 
 public class TddStackTest {
 
