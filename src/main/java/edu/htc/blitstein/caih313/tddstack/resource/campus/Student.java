@@ -1,4 +1,4 @@
 package edu.htc.blitstein.caih313.tddstack.resource.campus;
-
-public class Student {
+import edu.htc.blitstein.caih313.tddstack.IStackable;
+public class Student implements IStackable {
 }
